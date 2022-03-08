@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.1](https://github.com/mokkapps/changelog-generator-demo/compare/v0.1.0...v0.1.1) (2022-03-08)
+
+
+### Features
+
+* compatible with new format of pet & petframework ([3522805](https://github.com/mokkapps/changelog-generator-demo/commits/35228055f9586fcec5bedfffa8f94fbf02a08180))
+
 ## [0.1.0](https://github.com/mokkapps/changelog-generator-demo/compare/v0.0.5...v0.1.0) (2022-02-27)
 
 
@@ -19,4 +26,3 @@ All notable changes to this project will be documented in this file. See [standa
 *  hide dashboard on browser print ([3d70d78](https://github.com/mokkapps/changelog-generator-demo/commits/3d70d7858bc342c75ae9cf3d41186420b68d793b))
 
 ### [0.0.3](https://github.com/metapals/metapals-chromium/compare/v0.0.2...v0.0.3) (2022-02-13)
-`
