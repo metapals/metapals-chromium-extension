@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3](https://github.com/mokkapps/changelog-generator-demo/compare/v0.1.1...v0.1.3) (2022-03-13)
+
+
+### Bug Fixes
+
+* change running to walking animation ([1ab8a62](https://github.com/mokkapps/changelog-generator-demo/commits/1ab8a6264ed13ff21bf8f9dd9f967a4a2c461c43))
+* update drag start and drag callback ([38a909e](https://github.com/mokkapps/changelog-generator-demo/commits/38a909eed207ed5b370b811e7a311cc16750e2ab))
+
 ### [0.1.1](https://github.com/mokkapps/changelog-generator-demo/compare/v0.1.0...v0.1.1) (2022-03-08)
 
 
