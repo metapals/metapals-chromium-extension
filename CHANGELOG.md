@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/mokkapps/changelog-generator-demo/compare/v0.1.3...v0.1.4) (2022-03-21)
+
+
+### Features
+
+* **beta:** sync pet state between tabs ([2864dfd](https://github.com/mokkapps/changelog-generator-demo/commits/2864dfdc9c524330fc106b9dccca37a43fcbaebd))
+* command with hotkey ([9992254](https://github.com/mokkapps/changelog-generator-demo/commits/99922544a2bbc50b1b40f824072496928a5caf72))
+* updated icon ([a8ebf07](https://github.com/mokkapps/changelog-generator-demo/commits/a8ebf0742322780dddbbd93f84810522c7d3d430))
+
+
+### Bug Fixes
+
+* skip auto behaviour where pet isn't initialized yet ([4810e42](https://github.com/mokkapps/changelog-generator-demo/commits/4810e423fbf9b65f3fbd30a2f68b0d2d0439971b))
+
 ### [0.1.3](https://github.com/mokkapps/changelog-generator-demo/compare/v0.1.1...v0.1.3) (2022-03-13)
 
 
