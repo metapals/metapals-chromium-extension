@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.1](https://github.com/mokkapps/changelog-generator-demo/compare/v0.2.0...v0.2.1) (2022-03-23)
+
+
+### Bug Fixes
+
+* improved sync between tabs ([dcd8dc3](https://github.com/mokkapps/changelog-generator-demo/commits/dcd8dc3eaeb33c55a8462fb47e4549972ca29c4b))
+
 ## [0.2.0](https://github.com/mokkapps/changelog-generator-demo/compare/v0.1.4...v0.2.0) (2022-03-23)
 
 ### [0.1.4](https://github.com/mokkapps/changelog-generator-demo/compare/v0.1.3...v0.1.4) (2022-03-21)
