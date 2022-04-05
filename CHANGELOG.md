@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.5](https://github.com/mokkapps/changelog-generator-demo/compare/v0.2.4...v0.2.5) (2022-04-05)
+
+
+### Features
+
+* add leap by target ([2e95bd6](https://github.com/mokkapps/changelog-generator-demo/commits/2e95bd6f3b11b9805d0d992b7af0cde98d2ca5b2))
+* add option to disable hotkey ([0c9d737](https://github.com/mokkapps/changelog-generator-demo/commits/0c9d737c4c3ebe9f8e3dc786778fc2cd0dc42a55))
+
+### [0.2.4](https://github.com/mokkapps/changelog-generator-demo/compare/v0.2.3...v0.2.4) (2022-04-04)
+
 ### [0.2.3](https://github.com/mokkapps/changelog-generator-demo/compare/v0.2.2...v0.2.3) (2022-03-27)
 
 
