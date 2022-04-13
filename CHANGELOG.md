@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.3.0](https://github.com/mokkapps/changelog-generator-demo/compare/v0.2.5...v0.3.0) (2022-04-13)
+
+
+### Features
+
+* add sequence mode ([1737e1e](https://github.com/mokkapps/changelog-generator-demo/commits/1737e1e4ef4397c5010fd942a63c389b64a20658))
+* add summon friend, mood and idle actions in sequence ([c140d45](https://github.com/mokkapps/changelog-generator-demo/commits/c140d45b80ecdbad11a3939a27dcf42b65aee374))
+
+
+### Bug Fixes
+
+* passes steal and leap params ([5055282](https://github.com/mokkapps/changelog-generator-demo/commits/5055282fc4f8954e87b27fd396ac0fe10c99255d))
+
 ### [0.2.5](https://github.com/mokkapps/changelog-generator-demo/compare/v0.2.4...v0.2.5) (2022-04-05)
 
 
