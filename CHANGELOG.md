@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.1](https://github.com/mokkapps/changelog-generator-demo/compare/v0.3.0...v0.3.1) (2022-04-27)
+
+
+### Bug Fixes
+
+* hide dashboard with higher top position ([6a8594e](https://github.com/mokkapps/changelog-generator-demo/commits/6a8594eb212b082441c6753c934f38acd0eb5b5f))
+* tab sync will not run summon animation if not summoned ([80a6651](https://github.com/mokkapps/changelog-generator-demo/commits/80a6651665568770293171ba518a0af089a20a38))
+
 ## [0.3.0](https://github.com/mokkapps/changelog-generator-demo/compare/v0.2.5...v0.3.0) (2022-04-13)
 
 
