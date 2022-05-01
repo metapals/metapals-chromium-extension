@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.2](https://github.com/mokkapps/changelog-generator-demo/compare/v0.3.1...v0.3.2) (2022-05-01)
+
+
+### Features
+
+* add feed command ([8775dbb](https://github.com/mokkapps/changelog-generator-demo/commits/8775dbbc68ea9bbf259535fc524e2d59835e9e52))
+
 ### [0.3.1](https://github.com/mokkapps/changelog-generator-demo/compare/v0.3.0...v0.3.1) (2022-04-27)
 
 
